@@ -1,0 +1,27 @@
+{
+  "name": "typechecking-example",
+  "version": "1.0.0",
+  "description": "Javascript typechecking example",
+  "main": "index.js",
+  "scripts": {
+    "typecheck": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesmenzel/typechecking-example.git"
+  },
+  "keywords": [
+    "typechecking",
+    "linting"
+  ],
+  "author": "Aleš Menzel <alesmenzel@gmail.com> (https://github.com/alesmenzel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alesmenzel/typechecking-example/issues"
+  },
+  "homepage": "https://github.com/alesmenzel/typechecking-example#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
